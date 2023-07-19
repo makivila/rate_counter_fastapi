@@ -5,8 +5,8 @@
 Далее:
 
 ```sh
-git clone https://github.com/makivila/smit_test_task.git
-cd smit_test_task
+git clone https://github.com/makivila/rate_counter_fastapi.git
+cd rate_counter_fastapi
 make build
 make run
 
